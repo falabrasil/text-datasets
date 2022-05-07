@@ -1,11 +1,19 @@
 # Text Datasets in Brazilian Portuguese :brazil:
 
+https://forum.ailab.unb.br/t/datasets-em-portugues/251
+
 ## Index
 
 - [Download](#download)
 - [Stats](#stats)
 - [Datasets](#datasets)
-    - [:earth_americas: OSCAR](#cetuc):
+    - [:earth_americas: OSCAR](#oscar)
+    - Wikipedia
+    - BrWaC
+    - [:earth_americas: BlogSet-BR](#blogset-br)
+    - ACDC
+    - Lex2Kids
+    - Acordãos
 
 ### Other
 
@@ -29,6 +37,10 @@ TBD.
 ### OSCAR
 
 https://oscar-corpus.com/
+
+### BlogSet-BR
+
+https://www.inf.pucrs.br/linatural/wordpress/recursos-e-ferramentas/blogset-br/
 
 
 [![FalaBrasil](https://gitlab.com/falabrasil/avatars/-/raw/main/logo_fb_git_footer.png)](https://ufpafalabrasil.gitlab.io/ "Visite o site do Grupo FalaBrasil") [![UFPA](https://gitlab.com/falabrasil/avatars/-/raw/main/logo_ufpa_git_footer.png)](https://portal.ufpa.br/ "Visite o site da UFPA")
